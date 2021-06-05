@@ -1,0 +1,1 @@
+# avast-secure-browser
